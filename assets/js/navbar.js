@@ -38,9 +38,9 @@ navbar.innerHTML = `
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
-                                        <li class="current dropdown"><a href="index.html">Home</a>
+                                        <li class=""><a href="index.html">Home</a>
                                         </li> 
-                                        <li class="current dropdown"><a href="about.html">About</a></li> 
+                                        <li class=""><a href="about.html">About</a></li> 
                                         <li class="dropdown"><a href="index.html">Products</a>
                                         </li>
                                         <li class="dropdown"><a href="contact.html">Contact</a>
