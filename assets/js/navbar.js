@@ -7,15 +7,16 @@ navbar.innerHTML = `
                         <ul class="info-list clearfix">
                             <li>
                                 <i class="flaticon-location-pin"></i>
-                                219 Bedford Street Birmingham, AL 35211
+                                Jamnab Estate , FO1, opposite Military pension board , kubwa. Abuja
+
                             </li>
                             <li>
                                 <i class="flaticon-envelope"></i>
-                                <a href="mailto:info@example.com">info@example.com</a>
+                                <a href="mailto:zeldenfoods@gmail.com">zeldenfoods@gmail.com</a>
                             </li>
                             <li class="phone">
                                 <i class="flaticon-dial"></i>
-                                <a href="tel:234554657345">+234 554 657 345</a>
+                                <a href="tel:2347071822008">+234 7071822008</a>
                             </li>
                         </ul>
                     </div>
@@ -39,7 +40,7 @@ navbar.innerHTML = `
                                     <ul class="navigation clearfix">
                                         <li class="current dropdown"><a href="index.html">Home</a>
                                         </li> 
-                                        <li><a href="about.html">About</a></li> 
+                                        <li class="current dropdown"><a href="about.html">About</a></li> 
                                         <li class="dropdown"><a href="index.html">Products</a>
                                         </li>
                                         <li class="dropdown"><a href="contact.html">Contact</a>

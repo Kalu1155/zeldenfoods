@@ -479,7 +479,7 @@ img {
   display: inline-block;
   float: left;
   padding-left: 25px;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 26px;
   color: #fff;
   margin-right: 65px;
@@ -507,7 +507,7 @@ img {
 }
 
 .header-top .top-info .info-list li.phone a{
-  font-size: 18px;
+  font-size: 12px;
   font-weight: 500;
   font-family: 'Heebo', sans-serif;
 }
