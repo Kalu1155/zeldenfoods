@@ -176,56 +176,6 @@ h1,h2,h3,h4,h5,h6{
   transition: all 500ms ease;
 }
 
-
-/* Preloader */
-
-.preloader{
-  position: fixed; 
-  left:0px;
-  top:0px;
-  height:100%;
-  width: 100%;
-  z-index:999999;
-  background-color:#fff;
-  background-position:center center;
-  background-repeat:no-repeat;
-  background-image:url(../images/preloader.gif);
-}
-
-.centred{
-  text-align: center;
-}
-
-.pull-left{
-  float: left;
-}
-
-.pull-right{
-  float: right;
-}
-
-
-figure{
-  margin: 0px;
-}
-
-img {
-  display: inline-block;
-  max-width: 100%;
-  height: auto;
-  transition-delay: .1s;
-  transition-timing-function: ease-in-out;
-  transition-duration: .7s;
-  transition-property: all;
-}
-
-
-@keyframes pulse {
-    50% {
-        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0.5);
-    }
-}
-
 /** button **/
 
 .theme-btn{
